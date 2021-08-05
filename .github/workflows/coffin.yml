@@ -37,5 +37,5 @@ jobs:
       run: sc start ngrok
     - name: Connect to your RDP 2core-7GB Ram.
       run: cmd /c NGROK-CHECK.bat
-    - name: All Done! Join my TeleGram Channel for more tricks.
+    - name: VPS IS UP AND RUNNING!
       run: cmd /c loop.bat 
