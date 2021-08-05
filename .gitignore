@@ -1,2 +1,6 @@
 *.nc
 *.DS_store
+uses
+  Windows, Messages, SysUtils, Variants, Classes, Controls, Forms, strutils,
+  Dialogs, ADODB, DB, DBGrids, ExtCtrls, DBCtrls, StdCtrls, Grids, Menus,
+  Buttons;
