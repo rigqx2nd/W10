@@ -4,6 +4,8 @@
 
 > ## [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/c9ffin/RDP_COFFIN/blob/main/.github/workflows/coffin.yml)
 
+Create a new github account for this cuz some people get banned
+
 ### Upon contacting the author, I made sure that I could modify the project. 
 
 * Click Fork in the right corner of the screen to save it to your Github.
